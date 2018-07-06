@@ -102,3 +102,13 @@ ul.posts li {
     padding: 0;
   }
 }
+
+.container {
+    width: 600px;
+    height: 400px;
+}
+
+.container img {
+  max-height:100%;
+  max-width: 100%;
+}
